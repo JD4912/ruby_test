@@ -11,4 +11,4 @@ cd /home/deploy/ruby
 
 # Starting the server...
 
-bash -lc "bundle exec rails server -b 0.0.0.0"
+# bash -lc "bundle exec rails server -b 0.0.0.0"
